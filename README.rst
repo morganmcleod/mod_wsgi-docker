@@ -19,6 +19,9 @@ Prebuilt images available are:
 * grahamdumpleton/mod-wsgi-docker:python-3.4-onbuild
 * grahamdumpleton/mod-wsgi-docker:python-3.5
 * grahamdumpleton/mod-wsgi-docker:python-3.5-onbuild
+
+These images can be built locally. Not yet available on DockerHub as morganmcleod/mod_wsgi-docker*.  The 3.7 builds are based on debian:buster :
+
 * mod-wsgi-docker:python-3.6
 * mod-wsgi-docker:python-3.6-onbuild
 * mod-wsgi-docker:python-3.7
